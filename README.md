@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **FastAPI, Spring Boot, or full-stack architecture**
 
-- 📫 How to reach me **alexzhuzhou@gmail.com**
+- 📫 How to reach me **alexzhuzhou2@gmail.com**
 
 - ⚡ Fun fact **I debug my code faster when coffee is within a 3-meter radius ☕**
 
